@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yShehanPerera002.github.io/techni-website",
+  "homepage": "https://ShehanPerera002.github.io/techni-website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
